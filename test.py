@@ -4,4 +4,4 @@ x = int(input())
 
 
 for i in range(n):
-    print(i + 1 + x)
+    print(i + 6 + x)
